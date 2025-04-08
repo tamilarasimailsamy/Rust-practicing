@@ -9,4 +9,5 @@ fn main(){
 
     println!("{scores:?}");
 
-}
+}//entry keyword is used to check whether the key has value or not. If not it will insert the values
+//using or_insert method
